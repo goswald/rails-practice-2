@@ -38,4 +38,5 @@ end
 
 group :production do
   gem 'postgresql'
+  gem 'rails_12factor'
 end
