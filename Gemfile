@@ -6,6 +6,7 @@ gem 'bcrypt'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
+gem 'turbolinks'
 
 group :development do
   gem 'sqlite3'
@@ -35,5 +36,5 @@ group :test do
 end
 
 group :production do
-  gem 'pg'
+  gem 'postgresql'
 end
