@@ -1,0 +1,1 @@
+# Second Rails practice project.
